@@ -1,2 +1,5 @@
 # CODEVERTEX_Task1-Landing-Page
-internship task at codevertex
+USE HTML
+USE CSS
+USE JAVASCRIPT
+internship task1 at codevertex
